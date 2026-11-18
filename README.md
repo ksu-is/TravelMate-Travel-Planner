@@ -1,6 +1,5 @@
 # TravelMate-Travel-Planner
 A Python-based travel planning and budgeting assistant that helps users organize trips, explore hotels, restaurants, attractions, and pet hotels, and estimate travel expenses.
-# TravelMate
 
 ## Project Description
 TravelMate is a Python-based travel planning and budgeting assistant designed to help users organize their trips in one place. The program will allow users to explore hotels, restaurants, attractions, and pet hotels while estimating and managing their travel expenses. Users will also be able to save their trip information and return to it later.
